@@ -1,0 +1,8 @@
+
+Thsi can serve as sort of a journal of the project and it's development. 
+I want to get a better idea on how long these take me to do
+
+Day 1 - 22 May
+    Afghanistan flight so I have plenty of time to start this project.
+    Folders created, matplot was already installed and I started on page 324
+    

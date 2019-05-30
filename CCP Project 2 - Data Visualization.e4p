@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Project SYSTEM "Project-5.1.dtd">
+<!-- eric project file for project CCP Project 2 - Data Visualization -->
+<!-- Saved: 2019-05-30, 18:39:09 -->
+<!-- Copyright (C) 2019 Michael,  -->
+<Project version="5.1">
+  <Language></Language>
+  <Hash>7a169e3d71f88ec3315781c91996a9aa6f77505c</Hash>
+  <ProgLanguage mixed="0">Python3</ProgLanguage>
+  <ProjectType>PyQt5</ProjectType>
+  <Description>Data Visualization project from Crash Course Python.  Start Date  - 22 May 2019
+</Description>
+  <Version>0.1</Version>
+  <Author>Michael</Author>
+  <Email></Email>
+  <Eol index="0"/>
+  <Sources>
+    <Source>TIY15-1.py</Source>
+    <Source>__init__.py</Source>
+    <Source>americas.py</Source>
+    <Source>bar_descriptions.py</Source>
+    <Source>countries.py</Source>
+    <Source>country_codes.py</Source>
+    <Source>die.py</Source>
+    <Source>die_visual.py</Source>
+    <Source>highs_lows.py</Source>
+    <Source>highslows.py</Source>
+    <Source>hn_submissions.py</Source>
+    <Source>mpl_squares.py</Source>
+    <Source>no_populations.py</Source>
+    <Source>python_repos.py</Source>
+    <Source>python_reposvisual.py</Source>
+    <Source>random_walk.py</Source>
+    <Source>rw_visual.py</Source>
+    <Source>scatter_squares.py</Source>
+    <Source>scatter_squares2.py</Source>
+    <Source>single_die_Visual.py</Source>
+    <Source>world_population.py</Source>
+  </Sources>
+  <Forms/>
+  <Translations/>
+  <Resources/>
+  <Interfaces/>
+  <Others>
+    <Other>project journal.txt</Other>
+  </Others>
+  <Vcs>
+    <VcsType>None</VcsType>
+  </Vcs>
+  <FiletypeAssociations>
+    <FiletypeAssociation pattern="*.idl" type="INTERFACES"/>
+    <FiletypeAssociation pattern="*.py" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.py3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.qm" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.qrc" type="RESOURCES"/>
+    <FiletypeAssociation pattern="*.ts" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.ui" type="FORMS"/>
+  </FiletypeAssociations>
+</Project>
